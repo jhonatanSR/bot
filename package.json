@@ -1,0 +1,15 @@
+{
+  "name": "bode",
+  "version": "1.0.0",
+  "description": "bot teste",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhonatan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "jimp": "^0.16.0"
+  }
+}
